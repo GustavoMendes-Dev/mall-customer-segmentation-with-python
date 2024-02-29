@@ -2,5 +2,5 @@
 
 Mall Customer Segmentation using K-Means Algorithm
 
-![elbow](/img/elbow.png)
-![segment](/img/segment.png)
+![elbow](/imgs/elbow.png)
+![segment](imgs/segment.png)
