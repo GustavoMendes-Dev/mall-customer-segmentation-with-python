@@ -1,0 +1,82 @@
+[
+  {
+    "Customer_ID": 1,
+    "Name": "John",
+    "Age": 30,
+    "Gender": "Male",
+    "Annual_Spending": 10000,
+    "Weekly_Visits": 4
+  },
+  {
+    "Customer_ID": 2,
+    "Name": "Alice",
+    "Age": 25,
+    "Gender": "Female",
+    "Annual_Spending": 15000,
+    "Weekly_Visits": 2
+  },
+  {
+    "Customer_ID": 3,
+    "Name": "Bob",
+    "Age": 35,
+    "Gender": "Male",
+    "Annual_Spending": 8000,
+    "Weekly_Visits": 5
+  },
+  {
+    "Customer_ID": 4,
+    "Name": "Emily",
+    "Age": 40,
+    "Gender": "Female",
+    "Annual_Spending": 20000,
+    "Weekly_Visits": 1
+  },
+  {
+    "Customer_ID": 5,
+    "Name": "David",
+    "Age": 45,
+    "Gender": "Male",
+    "Annual_Spending": 12000,
+    "Weekly_Visits": 3
+  },
+  {
+    "Customer_ID": 6,
+    "Name": "Sophia",
+    "Age": 20,
+    "Gender": "Female",
+    "Annual_Spending": 18000,
+    "Weekly_Visits": 2
+  },
+  {
+    "Customer_ID": 7,
+    "Name": "Michael",
+    "Age": 55,
+    "Gender": "Male",
+    "Annual_Spending": 25000,
+    "Weekly_Visits": 1
+  },
+  {
+    "Customer_ID": 8,
+    "Name": "Emma",
+    "Age": 50,
+    "Gender": "Female",
+    "Annual_Spending": 30000,
+    "Weekly_Visits": 1
+  },
+  {
+    "Customer_ID": 9,
+    "Name": "William",
+    "Age": 35,
+    "Gender": "Male",
+    "Annual_Spending": 15000,
+    "Weekly_Visits": 4
+  },
+  {
+    "Customer_ID": 10,
+    "Name": "Olivia",
+    "Age": 30,
+    "Gender": "Female",
+    "Annual_Spending": 22000,
+    "Weekly_Visits": 3
+  }
+]
